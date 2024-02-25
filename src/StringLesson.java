@@ -25,6 +25,8 @@ System.out.println(splittedstring[4]);
 System.out.println(splittedstring[5]);
 System.out.println(splittedstring[6]);
 System.out.println(splittedstring[7]);
+System.out.println(splittedstring[8]);
+System.out.println(splittedstring[9]);
 for( int i =0;i<s5.length();i++)
 {
 System.out.println(s5.charAt(i));
