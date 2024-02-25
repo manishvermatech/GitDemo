@@ -27,6 +27,9 @@ public class Practise {
 		a.add("Verma");
 		a.add("TRisha");
 		a.add("Rashi");
+		a.add("GIT");
+		a.add("HUB");
+		a.add("TUTORIAL");
 		a.remove(1);
 		
 		for(int i=0;i<a.size();i++)
